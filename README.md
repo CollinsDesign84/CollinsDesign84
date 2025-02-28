@@ -2,7 +2,6 @@
 ![MasterHead](https://github.com/CollinsDesign84/CollinsDesign84/blob/main/rocket_Header.png)
 
 
-<h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">Lead Digital Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=collinsdesign84&label=Profile%20views&color=0e75b6&style=flat" alt="collinsdesign84" /> </p>
